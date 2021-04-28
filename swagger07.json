@@ -543,8 +543,8 @@
                 "type": "string",
                 "maxLength": 10,
                 "description": "Pet tag",
-                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89AB][0-9a-f]{3}-[0-9a-f]{12}$",
-                "properties": {
+                "pattern": "^[0-9a-f]{8}-[0-9a-f]{4}-[1-5][0-9a-f]{3}-[89AB][0-9a-f]{3}-[0-9a-f]{12}$"
+            }
             "name": {
                 "type": "string",
                 "maxLength": 10,
